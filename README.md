@@ -1,2 +1,3 @@
 # hello-world
 a hello to gitHUb
+I am new and just starting to learn...
